@@ -1,0 +1,8 @@
+[
+  {
+    "directory": ".",
+    "command": "cc -Wall -Wextra -std=c11 kilo.c -o kilo",
+    "file": "kilo.c"
+  }
+]
+
